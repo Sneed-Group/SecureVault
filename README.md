@@ -1,2 +1,2 @@
 # SecureVault
-SecureVault stable release. Source moved to https://github.com/Sneed-Group/SecureVault-src
+SecureVault stable release. Unstable source moved to https://github.com/Sneed-Group/SecureVault-src
